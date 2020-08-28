@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HTTP</string>
+    <string name="stringValue">天气预报</string>
+    <string name="button_ip">查询当前IP地址天气情况</string>
+</resources>
